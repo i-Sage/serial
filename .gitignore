@@ -1,0 +1,97 @@
+# Compiled object files
+*.o
+*.obj
+
+# Compiled static libraries
+*.lib
+*.a
+
+# Compiled dynamic libraries
+*.dll
+*.so
+*.dylib
+
+# Executable files
+*.exe
+*.out
+*.app
+
+# Debug files
+*.dSYM/
+*.pdb
+*.idb
+
+# Generated files
+*.gen.cpp
+*.gen.h
+
+# CMake build files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Visual Studio files
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+*.suo
+*.ncb
+*.user
+*.vcproj
+*.vcproj.*
+*.opensdf
+*.sdf
+*.ipch
+*.aps
+*.pch
+*.vspscc
+*.vssscc
+*.buildlog.*
+*.log
+*.tlog
+*.lastbuildstate
+*.sbr
+*.sbl
+*.pdb
+*.opendb
+*.obj
+*.idb
+*.ipdb
+*.iobj
+*.ilk
+*.meta
+*.obj
+*.pch
+*.res
+*.rsp
+*.tlb
+*.tli
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*.vssscc
+*.cache
+*.ilk
+*.ncb
+*.sdf
+*.opensdf
+*.suo
+*.tlb
+*.tli
+*.log
+*.vspscc
+*.vssscc
+
+# Qt files
+*.moc
+*.qrc
+*.ui
+
+# Other files
+*.DS_Store
+*.directory
+.idea/
+.vscode/
